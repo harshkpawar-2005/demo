@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/mansi/prototype/jharkhand-tourism/public/assets/videos/map.mp4 filter=lfs diff=lfs merge=lfs -text
