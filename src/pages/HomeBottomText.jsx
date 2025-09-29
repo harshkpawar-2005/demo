@@ -11,7 +11,7 @@ const HomeBottomText = () => {
       </div>
       <div className="border-4 h-40 hover:border-red-800 hover:text-red-900 flex items-center justify-center px-16 border-black bg-black/10 rounded-full uppercase transition-all duration-300">
         <Link className="text-[5vw] font-bold text-black hover:text-red-900" to="/guides/newuser">
-          Guides
+          Saathi
         </Link>
       </div>
     </div>

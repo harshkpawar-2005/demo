@@ -127,7 +127,7 @@ function LandingPage({ onLoginClick }) {
                         <p ref={description} className="hero-description">Share your local expertise, earn, and showcase the rich culture and stunning beauty of Jharkhand to the world.</p>
                         <div className="hero-actions">
                             <button className="hero-btn hero-login-btn" onClick={onLoginClick}>Login</button>
-                            <button className="hero-btn hero-register-btn">Register as Sathi</button>
+                            <button className="hero-btn hero-register-btn">Register as Saathi</button>
                         </div>
                     </div>
                 </div>
@@ -399,8 +399,8 @@ useLayoutEffect(() => {
             `}</style>
             
             <div ref={logoContainer} className="logo-transition-container">
-                <img ref={logoImg} src={logo} alt="Jharkhand Yatri Sathi Logo" className="animated-logo" />
-                <h1 ref={logoTitle} className="animated-title">Jharkhand Yatri Sathi</h1>
+                <img ref={logoImg} src={logo} alt="Jharkhand Yatri Saathi Logo" className="animated-logo" />
+                <h1 ref={logoTitle} className="animated-title">Jharkhand Yatri Saathi</h1>
             </div>
 
             <main>
